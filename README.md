@@ -79,7 +79,7 @@ The workspace window always includes the editor area. When you select a file in 
 
 The workspace window displays up to three optional areas used in performing different tasks in the development life cycle. Hiding areas not in use can help you focus on your current task. You can hide or show these optional areas by using the workspace configuration buttons on the far right side of the toolbar:
 
-![nav](http://i.imgur.com/oxJnlOP.png)  Show and hide the navigator area. Use this area for navigating all facets of your project, including files, symbols, breakpoints, build issues, tests, breakpoints, and build reports. You can also search for any string in your project.
+![nav](http://i.imgur.com/oxJnlOP.png)  Show and hide the navigator area. Use this area for navigating all facets of your project, including files, symbols, breakpoints, build issues, tests, and build reports. You can also search for any string in your project.
 
 ![debug](http://i.imgur.com/jQ22SM6.png)  Show and hide the debug area. Use this area for viewing variables, interacting with the debugger console, and controlling the execution of your app.
 
